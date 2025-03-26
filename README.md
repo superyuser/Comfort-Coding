@@ -1,2 +1,2 @@
 # Comfort-Coding
-for coping my comfort bubble
+for coping
